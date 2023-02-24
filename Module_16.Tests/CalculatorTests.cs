@@ -2,7 +2,7 @@
 using System;
 
 
-namespace Module_16
+namespace Module_16.Tests
 {
     [TestFixture]
     public class CalculatorTests
