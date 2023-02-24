@@ -6,6 +6,7 @@ namespace Module_16.Tests
 {
     [TestFixture]
     public class CalculatorTests
+
     {
         [Test]
         public void Additional_MustReturnCorrectValue()
